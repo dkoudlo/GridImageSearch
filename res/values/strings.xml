@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Grid Image Search</string>
+    <string name="action_settings">Settings</string>
+    <string name="query_hint">Enter Search Term</string>
+    <string name="search_button">Search</string>
+    <string name="title_activity_image_display">ImageDisplayActivity</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+	<string name="settings_header">Advanced Search Options</string>
+	<string name="image_size_spinner_lbl">Image Size: </string>
+	<string name="color_filter_spinner_lbl">Color Filter: </string>
+	<string name="image_type_spinner_lbl">Image Type: </string>
+	<string name="site_filter_lbl">Site Filter: </string>
+    <string name="btn_save">Save</string>
+    <string name="hntSiteFilter">yoursite.com</string>
+	<string-array name="image_sizes_array">
+        <item>small</item>
+        <item>medium</item>
+        <item>large</item>
+        <item>extra-large</item>
+    </string-array>
+    <string-array name="image_types_array">
+        <item>faces</item>
+        <item>photo</item>
+        <item>clip art</item>
+        <item>line art</item>
+    </string-array>
+    <string-array name="colors_array">
+        <item>green</item>
+        <item>red</item>
+        <item>blue</item>
+        <item>gray</item>
+        <item>black</item>
+        <item>purple</item>
+        <item>pink</item>
+        <item>teal</item>
+        <item>yellow</item>
+    </string-array>
+</resources>
