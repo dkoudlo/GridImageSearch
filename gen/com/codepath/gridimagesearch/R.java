@@ -30,19 +30,19 @@ public final class R {
     }
     public static final class id {
         public static final int action_settings=0x7f09000e;
-        public static final int btnSave=0x7f09000d;
+        public static final int btnSave=0x7f090007;
         public static final int btnSearch=0x7f090002;
         public static final int etQuery=0x7f090001;
-        public static final int etSiteFilter=0x7f09000c;
+        public static final int etSiteFilter=0x7f090005;
         public static final int gvResults=0x7f090003;
         public static final int ivResult=0x7f090000;
-        public static final int spColorFilter=0x7f090009;
-        public static final int spImageType=0x7f09000a;
+        public static final int spColorFilter=0x7f09000b;
+        public static final int spImageType=0x7f090009;
         public static final int spImgSize=0x7f090008;
-        public static final int tvLblFilter=0x7f090006;
-        public static final int tvLblSite=0x7f09000b;
-        public static final int tvLblSize=0x7f090005;
-        public static final int tvLblType=0x7f090007;
+        public static final int tvLblFilter=0x7f09000d;
+        public static final int tvLblSite=0x7f09000c;
+        public static final int tvLblSize=0x7f09000a;
+        public static final int tvLblType=0x7f090006;
         public static final int tvSettingsHeader=0x7f090004;
     }
     public static final class layout {

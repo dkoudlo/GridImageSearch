@@ -13,6 +13,7 @@ public class SearchSettings implements Serializable {
 	private String type;
     private String site;
     
+    
     public SearchSettings() {
             size = "";
             color = "";
